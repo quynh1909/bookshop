@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0"
+  },
+  "name": "1",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {
+    "@types/node": "^20.12.6",
+    "nodemon": "^3.0.3"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Duong Chi Quynh",
+  "license": "ISC",
+  "description": ""
+}
